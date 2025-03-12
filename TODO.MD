@@ -1,3 +1,4 @@
 -[ ] Circuit Diagram
 -[ ] Code 
 -[ ] PPT/WORD DOC explaining it
+-[ ] Physical project and checks
