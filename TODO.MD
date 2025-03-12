@@ -1,0 +1,3 @@
+-[ ] Circuit Diagram
+-[ ] Code 
+-[ ] PPT/WORD DOC explaining it
